@@ -1,3 +1,6 @@
+# This repository has been achieved. 
+# Buckyball is now maintaining the compiler code alongside buddy mlir and RuyiAI.
+
 # BUDDY MLIR
 
 An MLIR-based compiler framework designed for a co-design ecosystem from DSL (domain-specific languages) to DSA (domain-specific architectures). ([Project page](https://buddy-compiler.github.io/))
